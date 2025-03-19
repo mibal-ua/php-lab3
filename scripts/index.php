@@ -18,5 +18,9 @@
 <br>
 <a href="delete-lecturer.php">Видалити викладачів</a>
 <br>
+<a href="statistics.php">Статистика</a>
+<br>
+<a href="search.php">Пошук</a>
+<br>
 </body>
 </html>
